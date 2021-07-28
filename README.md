@@ -1,4 +1,4 @@
-# codelab_1
+# Dicoding Submission (Flutter)
 
 A new Flutter project.
 
